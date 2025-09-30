@@ -1,0 +1,22 @@
+/* LazyResident Custom Styles */
+
+/* Tab styling for navigation */
+.stTabs [data-baseweb="tab-list"] button [data-testid="stMarkdownContainer"] p {
+    font-size: 1.15rem;
+    font-weight: 600;
+}
+
+button[data-baseweb="tab"] {
+    margin: 0;
+    width: 100%;
+}
+
+/* Code block formatting with JetBrains Mono font */
+div[data-testid="stCode"] pre,
+div[data-testid="stCode"] code {
+    font-family: 'JetBrains Mono', -apple-system, BlinkMacSystemFont,
+        'Segoe UI', 'Roboto', sans-serif !important;
+    font-size: 16px !important;
+    line-height: 1.6 !important;
+    white-space: pre-wrap !important;
+}
