@@ -1,5 +1,6 @@
 # LazyResident
 LazyResident is a Streamlit web app that ulitize Google Gemini API to help clinicians turn rough notes into structured clinical documentation.
+https://lazyresident-0.streamlit.app/
 
 ## Disclaimer
 - LazyResident is for demonstration only — **not for diagnosis or treatment** of any medical condition.
